@@ -14,3 +14,28 @@ This is a Netflix clone project built with React and Firebase. It allows users t
 - **API Integration**: Fetching movie data and images from an external API.
 - **Tailwind CSS**: styling of the application.
 - **Git**: Version control and collaboration.
+
+## Setup
+
+To set up the project locally, follow these steps:
+
+1. Clone the repository:
+
+   ```
+   git clone https://github.com/Jkhall81/Netflix.git
+   ```
+
+2. Navigate to the project directory:
+
+   ```
+   cd Netflix
+   ```
+
+3. Install dependencies:
+
+   ```
+   npm install
+   ```
+
+4. 
+   
